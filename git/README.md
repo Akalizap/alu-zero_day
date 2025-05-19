@@ -1,1 +1,1 @@
-This is the git project directory
+This directory contains code files
